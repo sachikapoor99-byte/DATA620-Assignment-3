@@ -55,4 +55,4 @@ A 150-node subset was used for the network visualization because displaying all 
 
 ## Video Presentation
 
-Video link: To be added
+Video link: [Watch the video presentation](https://youtu.be/tMD6239tvcw)
